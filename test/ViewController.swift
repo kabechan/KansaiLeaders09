@@ -17,6 +17,8 @@ class ViewController: UIViewController {
         //眠たい
         
         print("Hello World")
+        
+        self.view.backgroundColor = UIColor.black
     }
 
     override func didReceiveMemoryWarning() {
