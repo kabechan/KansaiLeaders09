@@ -19,6 +19,11 @@ class ViewController: UIViewController {
         print("Hello World")
         
         self.view.backgroundColor = UIColor.black
+        
+        //AAA
+        print("AAA")
+        
+        
     }
 
     override func didReceiveMemoryWarning() {
